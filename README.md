@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abishevs
 - 👀 I’m interested in full-stack development, IT-infrastructure and mehanical engineering
-- 🌱 I’m currently learning Python, React js, Node js, css.
+- 🌱 I’m currently learning Python, React js, Node js and CSS...
 - 💞️ I’m looking to collaborate 
 - 📫 Reach me at: eduard.abishev@fordewind.se
 
