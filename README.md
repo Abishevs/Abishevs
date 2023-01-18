@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abishevs
 - 👀 I’m interested in full-stack development, IT-infrastructure and mehanical engineering
-- 🌱 I’m currently learning Python, Django, Node js and CSS...
+- 🌱 I’m currently learning AWS, Python, Django, Node js.
 - 📫 Reach me at: eduards@abishevs.com
 
 <!---
