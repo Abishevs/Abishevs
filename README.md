@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Eduards Abishevs
 - 👀 I’m interested in mechatronics engineering.
 - 🌱 I’m currently learning AWS, Python, C, Rust and embedded programming.
-- 👀 I love developing on software on Linux because of its flexability.
+- 👀 I love developing software on Linux because of its flexability.
 - Am also fluent in English, Swedish, Russian and Latvian.
 - 📫 Reach me at: eduards@abishevs.dev
 
