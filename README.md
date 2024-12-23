@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eduards Abishevs
-- 👀 I’m interested in mechatronics engineering.
+- 👀 Bachelor of Engineering student in Mechatronics at Chalmers University of Technology, with passion for systems programming and embedded systems
 - 🌱 I’m currently learning AWS, Python, C, Rust and embedded programming.
 - 👀 I love developing software on Linux because of its flexability.
 - Am also fluent in English, Swedish, Russian and Latvian.
