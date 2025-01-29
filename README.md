@@ -5,7 +5,7 @@
 - Am also fluent in English, Swedish, Russian and Latvian.
 - 📫 Reach me at: eduards@abishevs.dev
 
-![Portofolio website](https://abishevs.dev/)
+[Portofolio website](https://abishevs.dev/)
 
 ![goated](https://github-readme-stats.vercel.app/api/top-langs/?username=Abishevs&layout=compact&theme=vision-friendly-dark)
 <!---
